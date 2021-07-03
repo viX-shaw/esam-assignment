@@ -20,7 +20,8 @@ DEPENDENCIES
     $ source ~/esam/bin/activate
 
     Use the requirements.txt file to install the deps
-
+	
+    $ pip install -U pip
     $ pip install -r requirements.txt
 
 RUN
